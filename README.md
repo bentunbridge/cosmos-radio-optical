@@ -4,8 +4,6 @@ This page provides supplementary material to arXiv:number
 Radio-Optical Galaxy Shape Correlations in theCOSMOS Field
 Ben Tunbridge, Ian Harrison, Michael L. Brown
 
-Abstract:
-We investigate the correlations in galaxy shapes between optical and radio wavelengths using archival observations of the COSMOS field. Cross-correlation studies between different wavebands will become increasingly important for precision cosmology as future large surveys may be dominated by systematic rather than statistical errors. In the case of weak lensing, galaxy shapes must be measured to extraordinary accuracy (shear systematics of < 0.01%) in order to achieve good constraints on dark energy parameters. By using shape information from overlapping surveys in optical and radio bands, robustness to systematics may be significantly improved without loss of constraining power. Here we use HST-ACS optical data, VLA radio data, and extensive simulations to investigate both our ability to make precision measurements of source shapes from realistic radio data, and to constrain the intrinsic astrophysical scatter between the shapes of galaxies as measured in the optical and radio wavebands. By producing a new image from the VLA-COSMOS L-band radio visibility data that is well suited to galaxy shape measurements, we are able to extract precise measurements of galaxy position angles. Comparing to corresponding measurements from the HST optical image, we set a lower limit on the intrinsic astrophysical scatter in position angles, between the optical and radio bands, of sigma_alpha > 0.212 pi radians (or 38.2 degrees) at a 95% confidence level.
 
 The following can be found at:
 ftp://ftp.jb.man.ac.uk/pub/cosmos-radio-optical/
