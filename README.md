@@ -1,5 +1,5 @@
 
-This page provides supplementary material to arXiv:number
+This page provides supplementary material to arXiv:1607.02875
 
 Radio-Optical Galaxy Shape Correlations in theCOSMOS Field
 Ben Tunbridge, Ian Harrison, Michael L. Brown
